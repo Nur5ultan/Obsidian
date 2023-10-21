@@ -1,0 +1,28 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Дата создания:": "date",
+    "Автор:": "text",
+    "Опубликована:": "number",
+    "Прочитал:": "checkbox",
+    "Моя оценка:": "multitext",
+    "Год:": "number",
+    "Дата": "date",
+    "В работе:": "checkbox",
+    "Отложить:": "checkbox",
+    "Выполнено:": "checkbox",
+    "Посмотрел:": "checkbox",
+    "Жанр:": "multitext",
+    "Теги:": "multitext",
+    "Актеры:": "multitext",
+    "Страна:": "multitext",
+    "Длительность:": "multitext",
+    "Сезонов:": "text",
+    "Количество серии::": "number",
+    "Длительность серии:": "number",
+    "Дата выхода:": "date",
+    "Разработчик:": "multitext"
+  }
+}

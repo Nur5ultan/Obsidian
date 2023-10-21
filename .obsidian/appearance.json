@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Obuntu",
+  "baseFontSize": 14,
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Arial",
+  "enabledCssSnippets": [
+    "dashboard-ReadLineLength",
+    "dashboard"
+  ]
+}

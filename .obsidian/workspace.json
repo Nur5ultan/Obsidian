@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "4e9d8fde4553521b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1391ccb1792982c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ee1c7a1e5c7648a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Inbox/Домашняя страница.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68d01ce85f962297",
+    "type": "split",
+    "children": [
+      {
+        "id": "3966c16c93b5fd8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d72674f24e68c5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b92849b0d8e89dd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18b1f28d9e7b9c41",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "9d54381771725cea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e73b9e6abc16b54d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3699fac9ce1d6f7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Inbox/Домашняя страница.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ac52a4dc9df6163",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Inbox/Домашняя страница.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f123890b5cf9ba80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb27bd8f8a1cd961",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Inbox/Домашняя страница.md"
+              }
+            }
+          },
+          {
+            "id": "61be70eca502be1e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "2face7b96ee97f98",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f97f91cec49eda1e",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 559.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
+    }
+  },
+  "active": "1d72674f24e68c5d",
+  "lastOpenFiles": [
+    "README.md",
+    "Developers/Markdown/Markdown_GIT.md",
+    "Files/1475120bd988e19e231ddd680883dc17_MD5.svg",
+    "Files/e3b71d0222d9305cc7cc2e7cac15adf6_MD5.png",
+    "Files/b5b5cd47c2c8ed034bcd9ed5c5eb749d_MD5.png",
+    "Files/8228a7d4ba915c0d1dbb65625d164a85_MD5.png",
+    "Files/664a8cf418444ebdc4b65f884be38160_MD5.png",
+    "Files/a56adda4e444e2b02674ace48860b499_MD5.png",
+    "Files/910a6f7ff9b92e85dcd2e13e0e64a453_MD5.png",
+    "Files/a4afbc3ed3acaf022dc154b3e41fccf3_MD5.png",
+    "Files/f21329fb3b67eab4cdee4199d2d71fdf_MD5.png",
+    "Files/786121f4114903e9adf371f3a1ffae16_MD5.png",
+    "Soft/Visual Studio Code/Плагины/isort.md",
+    "Developers/Markdown/Не подтверждено 854121.~",
+    "Soft/Visual Studio Code/Плагины/IntelliSense for CSS class names in HTML.md",
+    "Soft/Visual Studio Code/Плагины/Не подтверждено 599622.~",
+    "Soft/Visual Studio Code/Плагины/Не подтверждено 456131.~",
+    "Soft/Visual Studio Code/Плагины/indent-rainbow.md",
+    "Soft/Visual Studio Code/Плагины/Не подтверждено 843250.~",
+    "Soft/Visual Studio Code/Темы/Bluloco Dark Theme.md",
+    "Soft/Visual Studio Code/Плагины/Не подтверждено 702983.~",
+    "Soft/Visual Studio Code/Плагины/Error Lens.md",
+    "Soft/Visual Studio Code/Плагины/Не подтверждено 378553.~",
+    "Soft/Visual Studio Code/Плагины/CSS Peek.md",
+    "Soft/Visual Studio Code/Плагины/Не подтверждено 677098.~",
+    "Soft/Visual Studio Code/Плагины/Codesnap.md",
+    "Soft/Visual Studio Code/Плагины/Не подтверждено 359357.~",
+    "Soft/Visual Studio Code/Плагины/Code Spell Checker.md",
+    "Soft/Visual Studio Code/Плагины/Codesnap.html",
+    "Soft/Visual Studio Code/Плагины/Не подтверждено 867964.~",
+    "Soft/Visual Studio Code/Плагины/Code runner.md",
+    "Soft/Visual Studio Code/Плагины.md",
+    "Soft/Visual Studio Code/Плагины/Color Highlight.md",
+    "Soft/Visual Studio Code/Темы.md",
+    "Soft/Obsidian/Плагины/Dataview/Переименовываем первый столбец File.md",
+    "Soft/Visual Studio Code/Плагины/Black Formatter.md",
+    "Soft/Visual Studio Code/Visual Studio Code.md",
+    "Soft/Visual Studio Code/Плагины/Better Comments.md",
+    "Soft/Obsidian/Плагины/Dataview/Просмотр данных в Obsidian руководство для начинающих.md",
+    "Soft/Obsidian/Плагины/Dataview/Obsidian+Dataview.md",
+    "_Inbox/Домашняя страница.md",
+    "Soft/Visual Studio Code/Плагины/Markdown All in One.md",
+    "Soft/Visual Studio Code/Настройки.md",
+    "Soft/Visual Studio Code/Плагины/Todo Tree.md",
+    "Soft/Visual Studio Code/Плагины/Russian Language Pack for Visual Studio Code.md",
+    "Soft/Visual Studio Code/Плагины/Python.md",
+    "Без названия.canvas"
+  ]
+}
