@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian-git",
+      "path": "Soft/Obsidian/Плагины/Obsidian-git.md"
+    },
+    {
       "basename": "Телеграм бот",
       "path": "_Inbox/Телеграм бот.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Введение в Tkinter. Первая программа",
       "path": "Developers/python/tkinter/Документация/1. Основы Tkinter/Введение в Tkinter. Первая программа.md"
-    },
-    {
-      "basename": "Git CheatSheet",
-      "path": "Developers/Git/Git CheatSheet.md"
     }
   ],
   "omittedPaths": [],

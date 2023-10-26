@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Inbox/Телеграм бот.md",
+                "file": "Soft/Obsidian/Плагины/Obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Inbox/Телеграм бот.md",
+                "file": "Soft/Obsidian/Плагины/Obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Inbox/Телеграм бот.md",
+                "file": "Soft/Obsidian/Плагины/Obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Inbox/Телеграм бот.md"
+                "file": "Soft/Obsidian/Плагины/Obsidian-git.md"
               }
             }
           },
@@ -182,10 +182,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2e72266d637d1a8b",
+  "active": "1d72674f24e68c5d",
   "lastOpenFiles": [
-    "_Inbox/Парсер сайта Anixart.md",
     "_Inbox/Телеграм бот.md",
+    "Soft/Obsidian/Плагины/Obsidian-git.md",
+    "Soft/Obsidian/Плагины/Не подтверждено 973513.~",
+    "_Inbox/Парсер сайта Anixart.md",
     "_Inbox/Домашняя страница.md",
     "Education/English/FlashCards/20 полезных выражений.md",
     "Education/English/FlashCards/Developers.md",
@@ -208,7 +210,6 @@
     "Developers/CSS/Colorful Preloader/Без названия",
     "Developers/HTML/HTML CheatSheets/HTML Inputs.md",
     "Developers/CSS/Colorful Preloader",
-    "Files/colorful_preloader.mp4",
     "Developers/python/Модуль OS/Модуль Os.md",
     "Files/html_inputs.jpg",
     "Developers/python/Модуль OS/Модуль OS.md",
@@ -224,7 +225,6 @@
     "Developers/python/ttkbootstrap/0005 API/0003 модуль диалоговых окон/0002 ColorDropperDialog.md",
     "Developers/python/ttkbootstrap/0004 Темы/0003 Определения.md",
     "Files/2917b9ba85e7510dc6048cb76e18fdf3_MD5.png",
-    "Developers/python/ttkbootstrap/0004 Темы/0002 Dark themes.md",
     "Files/b37d56804576ebbf6f07d8211323fd1d_MD5.webp",
     "Files/2a469542640cc3286b4813770170a5b9_MD5.png",
     "Files/77be4197a34d973cbff361e9990e0682_MD5.png",
