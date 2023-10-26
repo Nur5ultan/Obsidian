@@ -5,200 +5,200 @@
       "path": "_Inbox/Домашняя страница.md"
     },
     {
+      "basename": "Developers",
+      "path": "Education/English/FlashCards/Developers.md"
+    },
+    {
+      "basename": "20 полезных выражений",
+      "path": "Education/English/FlashCards/20 полезных выражений.md"
+    },
+    {
+      "basename": "Фразы для подбадривания!",
+      "path": "Education/English/FlashCards/Фразы для подбадривания!.md"
+    },
+    {
+      "basename": "English words",
+      "path": "Education/English/FlashCards/English words.md"
+    },
+    {
+      "basename": "Огромная шпаргалка по Python",
+      "path": "Developers/python/Огромная шпаргалка по Python.md"
+    },
+    {
+      "basename": "SQL CheatSheet на русском",
+      "path": "Developers/SQL/SQL CheatSheet на русском.md"
+    },
+    {
+      "basename": "Git шпаргалка на русском",
+      "path": "Developers/Git/Git шпаргалка на русском.md"
+    },
+    {
+      "basename": "Коллекция кнопок с hover эффектами на любой вкус на чистом html + css",
+      "path": "Developers/Web/Коллекция кнопок с hover эффектами на любой вкус на чистом html + css.md"
+    },
+    {
+      "basename": "result",
+      "path": "Developers/CSS/Colorful Preloader/result.md"
+    },
+    {
+      "basename": "index.html",
+      "path": "Developers/CSS/Colorful Preloader/index.html.md"
+    },
+    {
+      "basename": "style.css",
+      "path": "Developers/CSS/Colorful Preloader/style.css.md"
+    },
+    {
+      "basename": "HTML Inputs",
+      "path": "Developers/HTML/HTML CheatSheets/HTML Inputs.md"
+    },
+    {
+      "basename": "Модуль Os",
+      "path": "Developers/python/Модуль OS/Модуль Os.md"
+    },
+    {
+      "basename": "План по изучению Английского",
+      "path": "_Inbox/План по изучению Английского.md"
+    },
+    {
+      "basename": "0004 TTK Creator",
+      "path": "Developers/python/ttkbootstrap/0004 Темы/0004 TTK Creator.md"
+    },
+    {
+      "basename": "0003 Определения",
+      "path": "Developers/python/ttkbootstrap/0004 Темы/0003 Определения.md"
+    },
+    {
+      "basename": "0002 Dark themes",
+      "path": "Developers/python/ttkbootstrap/0004 Темы/0002 Dark themes.md"
+    },
+    {
+      "basename": "0001 Light themes",
+      "path": "Developers/python/ttkbootstrap/0004 Темы/0001 Light themes.md"
+    },
+    {
+      "basename": "0024 Устаревшие виджеты",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0024 Устаревшие виджеты.md"
+    },
+    {
+      "basename": "0023 Treeview",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0023 Treeview.md"
+    },
+    {
+      "basename": "0022 Spinbox",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0022 Spinbox.md"
+    },
+    {
+      "basename": "0021 Sizegrip",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0021 Sizegrip.md"
+    },
+    {
+      "basename": "0020 Separator",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0020 Separator.md"
+    },
+    {
+      "basename": "0019 Scrollbar",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0019 Scrollbar.md"
+    },
+    {
+      "basename": "0018 Scale",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0018 Scale.md"
+    },
+    {
+      "basename": "0017 Radiobutton",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0017 Radiobutton.md"
+    },
+    {
+      "basename": "0016 Progressbar",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0016 Progressbar.md"
+    },
+    {
+      "basename": "0015 Panedwindow",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0015 Panedwindow.md"
+    },
+    {
+      "basename": "0014 Notebook",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0014 Notebook.md"
+    },
+    {
+      "basename": "0013 Meter",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0013 Meter.md"
+    },
+    {
+      "basename": "0012 Menubutton",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0012 Menubutton.md"
+    },
+    {
+      "basename": "0010 Label",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0010 Label.md"
+    },
+    {
+      "basename": "0011 Labelframe",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0011 Labelframe.md"
+    },
+    {
+      "basename": "0009 Frame",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0009 Frame.md"
+    },
+    {
+      "basename": "0008 Floodgauge",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0008 Floodgauge.md"
+    },
+    {
+      "basename": "0007 Entry",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0007 Entry.md"
+    },
+    {
+      "basename": "0006 DatePickerPopup",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0006 DatePickerPopup.md"
+    },
+    {
+      "basename": "0005 DateEntry",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0005 DateEntry.md"
+    },
+    {
+      "basename": "0004 Combobox",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0004 Combobox.md"
+    },
+    {
+      "basename": "0003 Checkbutton",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0003 Checkbutton.md"
+    },
+    {
+      "basename": "0002 Button",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0002 Button.md"
+    },
+    {
+      "basename": "0001 Руководство по стилю",
+      "path": "Developers/python/ttkbootstrap/0003 Виджеты/0001 Руководство по стилю.md"
+    },
+    {
+      "basename": "0001 Установка",
+      "path": "Developers/python/ttkbootstrap/0001 Установка.md"
+    },
+    {
+      "basename": "0002 Учебник",
+      "path": "Developers/python/ttkbootstrap/0002 Учебник.md"
+    },
+    {
+      "basename": "Окно приложения",
+      "path": "Developers/python/tkinter/Документация/1. Основы Tkinter/Окно приложения.md"
+    },
+    {
+      "basename": "Введение в Tkinter. Первая программа",
+      "path": "Developers/python/tkinter/Документация/1. Основы Tkinter/Введение в Tkinter. Первая программа.md"
+    },
+    {
+      "basename": "Git CheatSheet",
+      "path": "Developers/Git/Git CheatSheet.md"
+    },
+    {
+      "basename": "Выноски=Callouts",
+      "path": "Soft/Obsidian/Выноски=Callouts.md"
+    },
+    {
       "basename": "Markdown_GIT",
       "path": "Developers/Markdown/Markdown_GIT.md"
-    },
-    {
-      "basename": "isort",
-      "path": "Soft/Visual Studio Code/Плагины/isort.md"
-    },
-    {
-      "basename": "IntelliSense for CSS class names in HTML",
-      "path": "Soft/Visual Studio Code/Плагины/IntelliSense for CSS class names in HTML.md"
-    },
-    {
-      "basename": "indent-rainbow",
-      "path": "Soft/Visual Studio Code/Плагины/indent-rainbow.md"
-    },
-    {
-      "basename": "Bluloco Dark Theme",
-      "path": "Soft/Visual Studio Code/Темы/Bluloco Dark Theme.md"
-    },
-    {
-      "basename": "Error Lens",
-      "path": "Soft/Visual Studio Code/Плагины/Error Lens.md"
-    },
-    {
-      "basename": "CSS Peek",
-      "path": "Soft/Visual Studio Code/Плагины/CSS Peek.md"
-    },
-    {
-      "basename": "Codesnap",
-      "path": "Soft/Visual Studio Code/Плагины/Codesnap.md"
-    },
-    {
-      "basename": "Code Spell Checker",
-      "path": "Soft/Visual Studio Code/Плагины/Code Spell Checker.md"
-    },
-    {
-      "basename": "Code runner",
-      "path": "Soft/Visual Studio Code/Плагины/Code runner.md"
-    },
-    {
-      "basename": "Плагины",
-      "path": "Soft/Visual Studio Code/Плагины.md"
-    },
-    {
-      "basename": "Color Highlight",
-      "path": "Soft/Visual Studio Code/Плагины/Color Highlight.md"
-    },
-    {
-      "basename": "Темы",
-      "path": "Soft/Visual Studio Code/Темы.md"
-    },
-    {
-      "basename": "Переименовываем первый столбец File",
-      "path": "Soft/Obsidian/Плагины/Dataview/Переименовываем первый столбец File.md"
-    },
-    {
-      "basename": "Black Formatter",
-      "path": "Soft/Visual Studio Code/Плагины/Black Formatter.md"
-    },
-    {
-      "basename": "Visual Studio Code",
-      "path": "Soft/Visual Studio Code/Visual Studio Code.md"
-    },
-    {
-      "basename": "Better Comments",
-      "path": "Soft/Visual Studio Code/Плагины/Better Comments.md"
-    },
-    {
-      "basename": "Просмотр данных в Obsidian руководство для начинающих",
-      "path": "Soft/Obsidian/Плагины/Dataview/Просмотр данных в Obsidian руководство для начинающих.md"
-    },
-    {
-      "basename": "Obsidian+Dataview",
-      "path": "Soft/Obsidian/Плагины/Dataview/Obsidian+Dataview.md"
-    },
-    {
-      "basename": "Markdown All in One",
-      "path": "Soft/Visual Studio Code/Плагины/Markdown All in One.md"
-    },
-    {
-      "basename": "Настройки",
-      "path": "Soft/Visual Studio Code/Настройки.md"
-    },
-    {
-      "basename": "Todo Tree",
-      "path": "Soft/Visual Studio Code/Плагины/Todo Tree.md"
-    },
-    {
-      "basename": "Russian Language Pack for Visual Studio Code",
-      "path": "Soft/Visual Studio Code/Плагины/Russian Language Pack for Visual Studio Code.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Soft/Visual Studio Code/Плагины/Python.md"
-    },
-    {
-      "basename": "Pylint",
-      "path": "Soft/Visual Studio Code/Плагины/Pylint.md"
-    },
-    {
-      "basename": "Pylance",
-      "path": "Soft/Visual Studio Code/Плагины/Pylance.md"
-    },
-    {
-      "basename": "Prettier - Code formatter",
-      "path": "Soft/Visual Studio Code/Плагины/Prettier - Code formatter.md"
-    },
-    {
-      "basename": "Live Server",
-      "path": "Soft/Visual Studio Code/Плагины/Live Server.md"
-    },
-    {
-      "basename": "gitignore",
-      "path": "Soft/Visual Studio Code/Плагины/gitignore.md"
-    },
-    {
-      "basename": "CodeSnap",
-      "path": "Soft/Visual Studio Code/Плагины/CodeSnap.md"
-    },
-    {
-      "basename": "Russian Code Spell Checker",
-      "path": "Soft/Visual Studio Code/Плагины/Russian Code Spell Checker.md"
-    },
-    {
-      "basename": "Code Runner",
-      "path": "Soft/Visual Studio Code/Плагины/Code Runner.md"
-    },
-    {
-      "basename": "Auto Close Tag",
-      "path": "Soft/Visual Studio Code/Плагины/Auto Close Tag.md"
-    },
-    {
-      "basename": "Auto Rename Tag",
-      "path": "Soft/Visual Studio Code/Плагины/Auto Rename Tag.md"
-    },
-    {
-      "basename": "Сериалы",
-      "path": "Media/Сериалы.md"
-    },
-    {
-      "basename": "Аниме",
-      "path": "Media/Аниме.md"
-    },
-    {
-      "basename": "PyCharm",
-      "path": "Soft/PyCharm/PyCharm.md"
-    },
-    {
-      "basename": "Горячие клавиши",
-      "path": "Soft/PyCharm/Горячие клавиши.md"
-    },
-    {
-      "basename": "Темы",
-      "path": "Soft/PyCharm/Темы.md"
-    },
-    {
-      "basename": "Плагины",
-      "path": "Soft/PyCharm/Плагины.md"
-    },
-    {
-      "basename": "Настройки",
-      "path": "Soft/PyCharm/Настройки.md"
-    },
-    {
-      "basename": "Dataview",
-      "path": "Soft/Obsidian/Плагины/Dataview/Dataview.md"
-    },
-    {
-      "basename": "Фи Брейн. Загадка Бога - Орден Орфея",
-      "path": "Media/anime/Фи Брейн. Загадка Бога - Орден Орфея.md"
-    },
-    {
-      "basename": "tmp_anime",
-      "path": "templates/tmp_anime.md"
-    },
-    {
-      "basename": "Фи Брейн. Божетсвенная головоломка ТВ-3",
-      "path": "Media/anime/Фи Брейн. Божетсвенная головоломка ТВ-3.md"
-    },
-    {
-      "basename": "Фи Брейн. Божественная головоломка",
-      "path": "Media/anime/Фи Брейн. Божественная головоломка.md"
-    },
-    {
-      "basename": "Фильмы",
-      "path": "Media/Фильмы.md"
-    },
-    {
-      "basename": "Преступный квест",
-      "path": "Media/films/Преступный квест.md"
-    },
-    {
-      "basename": "tmp_serials",
-      "path": "templates/tmp_serials.md"
     }
   ],
   "omittedPaths": [],

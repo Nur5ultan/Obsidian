@@ -4,8 +4,7 @@
     "flashcardGoodText": "Нормально",
     "flashcardHardText": "Сложно",
     "flashcardTags": [
-      "#flashcard_english",
-      "#flashcard_python"
+      "#english_flashcard"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -39,7 +38,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-10-14",
+  "buryDate": "2023-10-26",
   "buryList": [],
   "historyDeck": null
 }

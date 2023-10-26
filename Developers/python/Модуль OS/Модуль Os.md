@@ -1,0 +1,1 @@
+![[Files/Модуль_os_в_Python.pdf|Модуль_os_в_Python]]
