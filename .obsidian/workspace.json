@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "580ad84c15d09dde",
+        "id": "5706cbd138086012",
         "type": "tabs",
         "children": [
           {
-            "id": "7d8c6f8dcd125ff6",
+            "id": "2e72266d637d1a8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Inbox/Домашняя страница.md",
-                "mode": "preview",
+                "file": "_Inbox/Телеграм бот.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Inbox/Домашняя страница.md",
+                "file": "_Inbox/Телеграм бот.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Inbox/Домашняя страница.md",
+                "file": "_Inbox/Телеграм бот.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Inbox/Домашняя страница.md"
+                "file": "_Inbox/Телеграм бот.md"
               }
             }
           },
@@ -182,12 +182,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1d72674f24e68c5d",
+  "active": "2e72266d637d1a8b",
   "lastOpenFiles": [
+    "_Inbox/Парсер сайта Anixart.md",
+    "_Inbox/Телеграм бот.md",
+    "_Inbox/Домашняя страница.md",
     "Education/English/FlashCards/20 полезных выражений.md",
     "Education/English/FlashCards/Developers.md",
     "Education/English/FlashCards/Фразы для подбадривания!.md",
-    "_Inbox/Домашняя страница.md",
     "Education/English/FlashCards/English words.md",
     "Developers/python/Огромная шпаргалка по Python.md",
     "Developers/SQL/SQL CheatSheet на русском.md",
@@ -228,8 +230,6 @@
     "Files/77be4197a34d973cbff361e9990e0682_MD5.png",
     "Files/4915cd6007d25a6870620a99512a6d0e_MD5.png",
     "Files/22745bc7a98c2758663c1a3caadddc10_MD5.png",
-    "Developers/python/ttkbootstrap/0004 Темы/0001 Light themes.md",
-    "Developers/python/ttkbootstrap/0003 Виджеты/0024 Устаревшие виджеты.md",
     "Без названия.canvas"
   ]
 }

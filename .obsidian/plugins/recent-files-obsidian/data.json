@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Телеграм бот",
+      "path": "_Inbox/Телеграм бот.md"
+    },
+    {
+      "basename": "Парсер сайта Anixart",
+      "path": "_Inbox/Парсер сайта Anixart.md"
+    },
+    {
       "basename": "Домашняя страница",
       "path": "_Inbox/Домашняя страница.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Git CheatSheet",
       "path": "Developers/Git/Git CheatSheet.md"
-    },
-    {
-      "basename": "Выноски=Callouts",
-      "path": "Soft/Obsidian/Выноски=Callouts.md"
-    },
-    {
-      "basename": "Markdown_GIT",
-      "path": "Developers/Markdown/Markdown_GIT.md"
     }
   ],
   "omittedPaths": [],
