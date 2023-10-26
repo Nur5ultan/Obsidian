@@ -47,31 +47,13 @@
       "key": "."
     }
   ],
-  "obsidian-git:push2": [
+  "obsidian-git:push": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
       "key": "P"
-    }
-  ],
-  "obsidian-git:pull": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "I"
-    }
-  ],
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "C"
     }
   ]
 }
