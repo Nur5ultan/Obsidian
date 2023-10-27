@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c57d388f183dd1c4",
+        "id": "23088b9a686d3819",
         "type": "tabs",
         "children": [
           {
-            "id": "2ddee28257ca80f8",
+            "id": "4b2b8f4af4823e01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000008 Soft/800003 Visual Studio Code/Plugins.md",
+                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000008 Soft/800003 Visual Studio Code/Plugins.md",
+                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000008 Soft/800003 Visual Studio Code/Plugins.md",
+                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000008 Soft/800003 Visual Studio Code/Plugins.md"
+                "file": "000002 Education/200001 Арнион/000000 Содержание.md"
               }
             }
           },
@@ -182,12 +182,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2ddee28257ca80f8",
+  "active": "4b2b8f4af4823e01",
   "lastOpenFiles": [
+    "HomePage.md",
+    "000003 Developers/300008 GitHub/Начало работы с документацией GitHub.md",
+    "Files/66a7f9233088f736d92104174dcebb06_MD5.png",
+    "000003 Developers/300001 Markdown/000001 Базовый синтаксис форматирования.md",
+    "000003 Developers/300001 Markdown/Не подтверждено 775509.~",
+    "000008 Soft/800003 Visual Studio Code/Plugins.md",
     "000008 Soft/800003 Visual Studio Code/Plugins/Git Cheatsheet.md",
     "000008 Soft/800003 Visual Studio Code/Plugins/CSS Peek.md",
     "000008 Soft/800003 Visual Studio Code/Plugins/CSS Flexbox Cheatsheet.md",
-    "000008 Soft/800003 Visual Studio Code/Plugins.md",
     "000008 Soft/800003 Visual Studio Code/Plugins/Color Highlight.md",
     "Files/5753d48d416363c8665774854fa2560e_MD5.jpeg",
     "000008 Soft/800003 Visual Studio Code/Themes/Andromed.md",
@@ -200,7 +205,6 @@
     "000002 Education/200001 Арнион/Модуль 1. Быстрый старт в Python/1.2. Программа Hello World! Запуск .py файлов",
     "000002 Education/200001 Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды",
     "000002 Education/200001 Арнион/1.1. О языке Python. Установка среды.md",
-    "HomePage.md",
     "000001 Ideas/Плагин для Obsidian.md",
     "000002 Education/200001 Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды.md",
     "000001 Ideas/Телеграм бот.md",
@@ -219,9 +223,6 @@
     "000004 Books/Книги.md",
     "000004 Books/Как делать полезные заметки. Эффективная система организации идей по методу Zettelkasten.md",
     "000004 Books/Большая книга проектов.md",
-    "Education/Обучение.md",
-    "README.md",
-    "Soft/Obsidian/Плагины/Не подтверждено 973513.~",
     "Files/html_inputs.jpg",
     "Files/33a172cff778260972263889b1d87cd8_MD5.webp",
     "Files/6fe294ca33fcdf87b1d4e0f48d993d57_MD5.png",
@@ -229,7 +230,6 @@
     "Files/2917b9ba85e7510dc6048cb76e18fdf3_MD5.png",
     "Files/b37d56804576ebbf6f07d8211323fd1d_MD5.webp",
     "Files/2a469542640cc3286b4813770170a5b9_MD5.png",
-    "Files/77be4197a34d973cbff361e9990e0682_MD5.png",
     "Без названия.canvas"
   ]
 }
