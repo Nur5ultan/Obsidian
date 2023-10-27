@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Арнион/Содержание.md",
+                "file": "0004 Education/Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "9d54381771725cea",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Арнион/Содержание.md",
+                "file": "0004 Education/Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Арнион/Содержание.md",
+                "file": "0004 Education/Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Арнион/Содержание.md"
+                "file": "0004 Education/Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды.md"
               }
             }
           },
@@ -183,47 +182,47 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4076a695274b79bd",
+  "active": "1d72674f24e68c5d",
   "lastOpenFiles": [
-    "Education/Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды.md",
-    "Education/Арнион/Содержание.md",
-    "_Inbox/Домашняя страница.md",
-    "Soft/Obsidian/Плагины/Obsidian-git.md",
-    "_Inbox/Телеграм бот.md",
+    "Education/Обучение.md",
+    "0004 Education/Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды.md",
+    "README.md",
+    "0004 Education/Арнион/Содержание.md",
+    "0000 Inbox/Домашняя страница.md",
+    "0007 Media/Аниме.md",
+    "0009 Soft/Obsidian/Плагины/Obsidian-git.md",
+    "0000 Inbox/Телеграм бот.md",
     "Soft/Obsidian/Плагины/Не подтверждено 973513.~",
-    "_Inbox/Парсер сайта Anixart.md",
-    "Education/English/FlashCards/20 полезных выражений.md",
-    "Education/English/FlashCards/Developers.md",
-    "Education/English/FlashCards/Фразы для подбадривания!.md",
-    "Education/English/FlashCards/English words.md",
-    "Developers/python/Огромная шпаргалка по Python.md",
-    "Developers/SQL/SQL CheatSheet на русском.md",
+    "0000 Inbox/Парсер сайта Anixart.md",
+    "0004 Education/English/FlashCards/20 полезных выражений.md",
+    "0004 Education/English/FlashCards/Developers.md",
+    "0004 Education/English/FlashCards/Фразы для подбадривания!.md",
+    "0004 Education/English/FlashCards/English words.md",
+    "0003 Developers/python/Огромная шпаргалка по Python.md",
+    "0003 Developers/SQL/SQL CheatSheet на русском.md",
     "Files/Шпаргалка_по _Python.pdf",
-    "Developers/Git/Git шпаргалка на русском.md",
-    "Developers/SQL",
+    "0003 Developers/Git/Git шпаргалка на русском.md",
+    "0003 Developers/SQL",
     "Files/sql_cheatsheet.pdf",
-    "Developers/Web/Коллекция кнопок с hover эффектами на любой вкус на чистом html + css.md",
+    "0003 Developers/Web/Коллекция кнопок с hover эффектами на любой вкус на чистом html + css.md",
     "Files/git_шпаргалка_на_русском.pdf",
-    "_Inbox/Как_составить_качественное_резюме_для_поиска_работы_в_«первом_мире».pdf",
-    "Developers/CSS/Colorful Preloader/result.md",
-    "Developers/Web",
+    "0000 Inbox/Как_составить_качественное_резюме_для_поиска_работы_в_«первом_мире».pdf",
+    "0003 Developers/CSS/Colorful Preloader/result.md",
+    "0003 Developers/Web",
     "Files/hover_effect_buttons.mp4",
-    "Developers/CSS/Colorful Preloader/index.html.md",
-    "Developers/CSS/Colorful Preloader/style.css.md",
+    "0003 Developers/CSS/Colorful Preloader/index.html.md",
+    "0003 Developers/CSS/Colorful Preloader/style.css.md",
     "Developers/CSS/Colorful Preloader/Без названия",
-    "Developers/HTML/HTML CheatSheets/HTML Inputs.md",
-    "Developers/CSS/Colorful Preloader",
-    "Developers/python/Модуль OS/Модуль Os.md",
+    "0003 Developers/HTML/HTML CheatSheets/HTML Inputs.md",
+    "0003 Developers/CSS/Colorful Preloader",
+    "0003 Developers/python/Модуль OS/Модуль Os.md",
     "Files/html_inputs.jpg",
     "Developers/python/Модуль OS/Модуль OS.md",
     "Developers/python/ttkbootstrap/0005 API/0003 модуль диалоговых окон/0001 ColorChooserDialog.md",
     "Files/33a172cff778260972263889b1d87cd8_MD5.webp",
     "Developers/python/ttkbootstrap/0005 API/0002 colorutils module.md",
     "Developers/python/ttkbootstrap/0005 API/0001 Документация API.md",
-    "Developers/python/ttkbootstrap/0004 Темы/0004 TTK Creator.md",
-    "Developers/python/ttkbootstrap/0005 API/0003 модуль диалоговых окон/0004 Dialog.md",
     "Files/6fe294ca33fcdf87b1d4e0f48d993d57_MD5.png",
-    "Developers/python/ttkbootstrap/0005 API/0003 модуль диалоговых окон/0003 DatePickerDialog.md",
     "Files/85516c488ae6d3abceeaa3da21c72adc_MD5.jpg",
     "Files/2917b9ba85e7510dc6048cb76e18fdf3_MD5.png",
     "Files/b37d56804576ebbf6f07d8211323fd1d_MD5.webp",
