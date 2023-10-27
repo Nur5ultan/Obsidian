@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4d823570ff10af63",
+        "id": "c57d388f183dd1c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ea547855948021b2",
+            "id": "2ddee28257ca80f8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "000001 Ideas/100000 Идеи.md"
+                "file": "000008 Soft/800003 Visual Studio Code/Plugins.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -46,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcard",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000001 Ideas/100000 Идеи.md",
+                "file": "000008 Soft/800003 Visual Studio Code/Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000001 Ideas/100000 Идеи.md",
+                "file": "000008 Soft/800003 Visual Studio Code/Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000001 Ideas/100000 Идеи.md"
+                "file": "000008 Soft/800003 Visual Studio Code/Plugins.md"
               }
             }
           },
@@ -179,8 +182,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "ea547855948021b2",
+  "active": "2ddee28257ca80f8",
   "lastOpenFiles": [
+    "000008 Soft/800003 Visual Studio Code/Plugins/Git Cheatsheet.md",
+    "000008 Soft/800003 Visual Studio Code/Plugins/CSS Peek.md",
+    "000008 Soft/800003 Visual Studio Code/Plugins/CSS Flexbox Cheatsheet.md",
+    "000008 Soft/800003 Visual Studio Code/Plugins.md",
+    "000008 Soft/800003 Visual Studio Code/Plugins/Color Highlight.md",
+    "Files/5753d48d416363c8665774854fa2560e_MD5.jpeg",
+    "000008 Soft/800003 Visual Studio Code/Themes/Andromed.md",
+    "Files/Pasted image 20231027223407.png",
+    "000008 Soft/800003 Visual Studio Code/Themes/Bluloco Dark Theme.md",
+    "000001 Ideas/100000 Идеи.md",
     "000002 Education/200001 Арнион/000000 Содержание.md",
     "000002 Education/200001 Арнион/Модуль 1. Быстрый старт в Python",
     "000002 Education/200001 Арнион/Модуль 1. Быстрый старт в Python/1.3. Переменные и типы данных в Python",
@@ -191,7 +204,6 @@
     "000001 Ideas/Плагин для Obsidian.md",
     "000002 Education/200001 Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды.md",
     "000001 Ideas/Телеграм бот.md",
-    "000001 Ideas/100000 Идеи.md",
     "000001 Ideas/Тема для Obsidian.md",
     "000008 Soft/888888 Portable/portable.md",
     "000008 Soft/Bandicam.md",
@@ -209,13 +221,7 @@
     "000004 Books/Большая книга проектов.md",
     "Education/Обучение.md",
     "README.md",
-    "000006 Media/Аниме.md",
-    "000008 Soft/800001 Obsidian/Плагины/Obsidian-git.md",
     "Soft/Obsidian/Плагины/Не подтверждено 973513.~",
-    "000002 Education/200001 English/FlashCards/20 полезных выражений.md",
-    "000002 Education/200001 English/FlashCards/Developers.md",
-    "000002 Education/200001 English/FlashCards/Фразы для подбадривания!.md",
-    "000002 Education/200001 English/FlashCards/English words.md",
     "Files/html_inputs.jpg",
     "Files/33a172cff778260972263889b1d87cd8_MD5.webp",
     "Files/6fe294ca33fcdf87b1d4e0f48d993d57_MD5.png",
@@ -224,8 +230,6 @@
     "Files/b37d56804576ebbf6f07d8211323fd1d_MD5.webp",
     "Files/2a469542640cc3286b4813770170a5b9_MD5.png",
     "Files/77be4197a34d973cbff361e9990e0682_MD5.png",
-    "Files/4915cd6007d25a6870620a99512a6d0e_MD5.png",
-    "Files/22745bc7a98c2758663c1a3caadddc10_MD5.png",
     "Без названия.canvas"
   ]
 }

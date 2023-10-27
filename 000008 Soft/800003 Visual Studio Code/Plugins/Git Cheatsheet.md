@@ -1,0 +1,3 @@
+
+
+# Git Cheatsheet ([ссылка](https://marketplace.visualstudio.com/items?itemName=dzhavat.git-cheatsheet))<br><br>Расширение VS Code, позволяющее открывать Git cheatsheet непосредственно в редакторе.<br><br>## Характеристики<br><br>Чтобы открыть cheatsheet, нажмите `Ctrl+Shift+P` (Win, Linux) / `Cmd+Shift+P` (Mac) и выполните поиск `Open Git Cheatsheet` команды.<br><br>Вы также можете скопировать каждую команду, нажав на кнопку “Копировать” справа.<br><br>Цвета на странице cheatsheet автоматически адаптируются к выбранной теме. Шрифт основан на предпочитаемом пользователем семействе шрифтов.|
