@@ -65,15 +65,6 @@
       "key": "X"
     }
   ],
-  "obsidian-git:open-diff-view": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
   "obsidian-git:list-changed-files": [
     {
       "modifiers": [
@@ -83,11 +74,20 @@
       "key": "L"
     }
   ],
+  "obsidian-git:open-diff-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
   "obsidian-git:fetch": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "F"
     }
