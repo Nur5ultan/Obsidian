@@ -2,5 +2,5 @@
 "Заголовок:": 
 "Дата создания:": 
 "Теги:": python, py,
-Ссылки: "[[0009 Soft/Visual Studio Code/Plugins/Python]]"
+Ссылки: "[[../000008 Soft/800003 Visual Studio Code/Plugins/Python]]"
 ---

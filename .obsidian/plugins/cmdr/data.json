@@ -19,8 +19,16 @@
   "macros": [],
   "explorer": [],
   "hide": {
-    "statusbar": [],
-    "leftRibbon": []
+    "statusbar": [
+      "various-complements",
+      "obsidian-spaced-repetition",
+      "obsidian-git",
+      "backlink",
+      "properties"
+    ],
+    "leftRibbon": [
+      "Templater"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {
