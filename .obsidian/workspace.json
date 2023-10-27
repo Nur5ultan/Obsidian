@@ -157,7 +157,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -170,10 +169,11 @@
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Повторить карточки": false,
       "obsidian-youglish-plugin:Youglish Plugin": false,
+      "homepage:Open homepage": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d13aa5168f742fcf",
+  "active": "1d72674f24e68c5d",
   "lastOpenFiles": [
     "Soft/Obsidian/Плагины/Obsidian-git.md",
     "_Inbox/Телеграм бот.md",
