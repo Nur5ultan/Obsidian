@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5706cbd138086012",
+        "id": "961e6e0314b0c722",
         "type": "tabs",
         "children": [
           {
-            "id": "2e72266d637d1a8b",
+            "id": "d13aa5168f742fcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Soft/Obsidian/Плагины/Obsidian-git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft/Obsidian/Плагины/Obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft/Obsidian/Плагины/Obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Soft/Obsidian/Плагины/Obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,10 +173,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1d72674f24e68c5d",
+  "active": "d13aa5168f742fcf",
   "lastOpenFiles": [
-    "_Inbox/Телеграм бот.md",
     "Soft/Obsidian/Плагины/Obsidian-git.md",
+    "_Inbox/Телеграм бот.md",
     "Soft/Obsidian/Плагины/Не подтверждено 973513.~",
     "_Inbox/Парсер сайта Anixart.md",
     "_Inbox/Домашняя страница.md",
