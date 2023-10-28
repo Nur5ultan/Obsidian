@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000001 Ideas/Плагин для Obsidian.md",
+                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000001 Ideas/Плагин для Obsidian.md",
+                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000001 Ideas/Плагин для Obsidian.md",
+                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000001 Ideas/Плагин для Obsidian.md"
+                "file": "000002 Education/200001 Арнион/000000 Содержание.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "e7c60539765fe52e",
   "lastOpenFiles": [
+    "000001 Ideas/Плагин для Obsidian.md",
     "Files/Images/1475120bd988e19e231ddd680883dc17_MD5.svg",
     "Files/Images/fd37de5752dced324edec5af8073259f_MD5.webp",
     "Files/Images/de15f6532e38dacf175e4af953b0b154_MD5.webp",
@@ -201,7 +202,6 @@
     "Files/Images/Pasted image 20231024002902.png",
     "Files/Images/Pasted image 20230924213052.png",
     "Files/Images/fb3d11b510b7c3b442c58c022f6499e9_MD5.png",
-    "Files/Images/f9ec3ffee780df401262c55b9278080c_MD5.png",
     "Files/Images",
     "Files/Photos",
     "Files/Video/hover_effect_buttons.mp4",
@@ -219,7 +219,6 @@
     "000008 Soft/800003 Visual Studio Code/Themes/Bluloco Dark Theme.md",
     "000002 Education/200001 Арнион/000000 Содержание.md",
     "000002 Education/200001 Арнион/1.1. О языке Python. Установка среды.md",
-    "000001 Ideas/Плагин для Obsidian.md",
     "000002 Education/200001 Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды.md",
     "000001 Ideas/Телеграм бот.md",
     "000001 Ideas/Тема для Obsidian.md",
