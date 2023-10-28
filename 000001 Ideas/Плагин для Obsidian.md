@@ -7,3 +7,5 @@
 <span style="color: red">name.pdf</span>
 <span style="color: blue">name.docx</span>
 <span style="color: green">name.xlsx</span>
+
+3. Так же нужно что бы этот плагин сортировал файлы по папкам в зависимости от расширения. Например: Сейчас у меня все файлы хранятся в одной папке Files. А нужно что бы файла с расширением .pdf, .epub хранились в папке Filles\Books. Файлы .docx, xlsx в папке Files\Docs. Файлы .png, jpg в папке Files\Pictures

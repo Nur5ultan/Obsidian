@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23088b9a686d3819",
+        "id": "2f5852bae6c85360",
         "type": "tabs",
         "children": [
           {
-            "id": "4b2b8f4af4823e01",
+            "id": "e7c60539765fe52e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
-                "mode": "preview",
+                "file": "000001 Ideas/Плагин для Obsidian.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
+                "file": "000001 Ideas/Плагин для Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
+                "file": "000001 Ideas/Плагин для Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000002 Education/200001 Арнион/000000 Содержание.md"
+                "file": "000001 Ideas/Плагин для Obsidian.md"
               }
             }
           },
@@ -182,8 +182,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4b2b8f4af4823e01",
+  "active": "e7c60539765fe52e",
   "lastOpenFiles": [
+    "000001 Ideas/100000 Идеи.md",
+    "000001 Ideas/Создать свой генератор сниппетов для VS Code.md",
+    "Files/c86e7d2251d3f0c807216e145b4c5a07_MD5.jpeg",
+    "Files/2023-10-28_21-07.png",
+    "Files/b1dfcd1ba28962e6b200a949bb5f25fb_MD5.jpeg",
+    "Files/2023-10-28_20-59.5.png",
     "HomePage.md",
     "000003 Developers/300008 GitHub/Начало работы с документацией GitHub.md",
     "Files/66a7f9233088f736d92104174dcebb06_MD5.png",
@@ -198,7 +204,6 @@
     "000008 Soft/800003 Visual Studio Code/Themes/Andromed.md",
     "Files/Pasted image 20231027223407.png",
     "000008 Soft/800003 Visual Studio Code/Themes/Bluloco Dark Theme.md",
-    "000001 Ideas/100000 Идеи.md",
     "000002 Education/200001 Арнион/000000 Содержание.md",
     "000002 Education/200001 Арнион/Модуль 1. Быстрый старт в Python",
     "000002 Education/200001 Арнион/Модуль 1. Быстрый старт в Python/1.3. Переменные и типы данных в Python",
@@ -221,15 +226,9 @@
     "000000 Inbox/Как_составить_качественное_резюме_для_поиска_работы_в_«первом_мире».pdf",
     "000004 Books/Полководец.md",
     "000004 Books/Книги.md",
-    "000004 Books/Как делать полезные заметки. Эффективная система организации идей по методу Zettelkasten.md",
-    "000004 Books/Большая книга проектов.md",
     "Files/html_inputs.jpg",
     "Files/33a172cff778260972263889b1d87cd8_MD5.webp",
     "Files/6fe294ca33fcdf87b1d4e0f48d993d57_MD5.png",
-    "Files/85516c488ae6d3abceeaa3da21c72adc_MD5.jpg",
-    "Files/2917b9ba85e7510dc6048cb76e18fdf3_MD5.png",
-    "Files/b37d56804576ebbf6f07d8211323fd1d_MD5.webp",
-    "Files/2a469542640cc3286b4813770170a5b9_MD5.png",
     "Без названия.canvas"
   ]
 }
