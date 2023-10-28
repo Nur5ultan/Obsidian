@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f5852bae6c85360",
+        "id": "80fa0f07a43c8b50",
         "type": "tabs",
         "children": [
           {
-            "id": "e7c60539765fe52e",
+            "id": "3d98e2a726276981",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
-                "mode": "source",
+                "file": "000008 Soft/888888 Portable/EzSort.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
+                "file": "000008 Soft/888888 Portable/EzSort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
+                "file": "000008 Soft/888888 Portable/EzSort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000002 Education/200001 Арнион/000000 Содержание.md"
+                "file": "000008 Soft/888888 Portable/EzSort.md"
               }
             }
           },
@@ -182,8 +182,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e7c60539765fe52e",
+  "active": "3d98e2a726276981",
   "lastOpenFiles": [
+    "000008 Soft/888888 Portable/portable.md",
+    "000008 Soft/888888 Portable/EzSort.md",
+    "HomePage.md",
     "000001 Ideas/Плагин для Obsidian.md",
     "Files/Images/1475120bd988e19e231ddd680883dc17_MD5.svg",
     "Files/Images/fd37de5752dced324edec5af8073259f_MD5.webp",
@@ -207,7 +210,6 @@
     "Files/Video/hover_effect_buttons.mp4",
     "000001 Ideas/100000 Идеи.md",
     "000001 Ideas/Создать свой генератор сниппетов для VS Code.md",
-    "HomePage.md",
     "000003 Developers/300008 GitHub/Начало работы с документацией GitHub.md",
     "000003 Developers/300001 Markdown/000001 Базовый синтаксис форматирования.md",
     "000008 Soft/800003 Visual Studio Code/Plugins.md",
@@ -222,7 +224,6 @@
     "000002 Education/200001 Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды.md",
     "000001 Ideas/Телеграм бот.md",
     "000001 Ideas/Тема для Obsidian.md",
-    "000008 Soft/888888 Portable/portable.md",
     "000008 Soft/Bandicam.md",
     "000008 Soft/4K Downloader.md",
     "000008 Soft/800003 Visual Studio Code/Settings.md",
