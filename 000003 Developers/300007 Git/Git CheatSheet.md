@@ -1,3 +1,4 @@
+
 > [!info]- Setup
 >
 > > [!Tip]- Set the name that will be attached to your commits  
@@ -5,6 +6,10 @@
 >
 > > [!Tip]- Set the email that will be attached to your commits  
 > > **git config --global user.email "Your email"**
+>
+> > [!Tip]- Setting the default branch name  
+> > **git config --global init.defaultBranch main** 
+
 
 > [!info]- Basics
 >
@@ -21,7 +26,7 @@
 > > **git add**
 >
 > > [!Tip]- Commit the staged snapshot using "Message" as the commit message  
-> > **git commit -m "Message**
+> > **git commit -m "Message"**
 >
 > > [!Tip]- Push local branch commits to the remote repository branch  
 > > **git push `<remote> <branch>`**

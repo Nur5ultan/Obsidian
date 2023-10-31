@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80fa0f07a43c8b50",
+        "id": "a024fe1233f4c7c3",
         "type": "tabs",
         "children": [
           {
-            "id": "3d98e2a726276981",
+            "id": "84cc90bbcac16fef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000008 Soft/888888 Portable/EzSort.md",
+                "file": "000003 Developers/300007 Git/Git CheatSheet.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000008 Soft/888888 Portable/EzSort.md",
+                "file": "000003 Developers/300007 Git/Git CheatSheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000008 Soft/888888 Portable/EzSort.md",
+                "file": "000003 Developers/300007 Git/Git CheatSheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000008 Soft/888888 Portable/EzSort.md"
+                "file": "000003 Developers/300007 Git/Git CheatSheet.md"
               }
             }
           },
@@ -182,11 +182,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "3d98e2a726276981",
+  "active": "84cc90bbcac16fef",
   "lastOpenFiles": [
+    "000003 Developers/300007 Git/Git шпаргалка на русском.md",
+    "HomePage.md",
     "000008 Soft/888888 Portable/portable.md",
     "000008 Soft/888888 Portable/EzSort.md",
-    "HomePage.md",
     "000001 Ideas/Плагин для Obsidian.md",
     "Files/Images/1475120bd988e19e231ddd680883dc17_MD5.svg",
     "Files/Images/fd37de5752dced324edec5af8073259f_MD5.webp",
@@ -229,7 +230,6 @@
     "000008 Soft/800003 Visual Studio Code/Settings.md",
     "000001 Ideas/Парсер сайта Anixart.md",
     "000004 Books/Полководец.md",
-    "000004 Books/Книги.md",
     "Без названия.canvas"
   ]
 }
