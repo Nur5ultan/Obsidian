@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a024fe1233f4c7c3",
+        "id": "323f0de0e6ff8d79",
         "type": "tabs",
         "children": [
           {
-            "id": "84cc90bbcac16fef",
+            "id": "24b5e6ddd653c397",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000003 Developers/300007 Git/Git CheatSheet.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -182,7 +177,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "84cc90bbcac16fef",
+  "active": "1d72674f24e68c5d",
   "lastOpenFiles": [
     "000003 Developers/300007 Git/Git шпаргалка на русском.md",
     "HomePage.md",
