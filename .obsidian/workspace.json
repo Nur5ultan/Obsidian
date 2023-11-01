@@ -11,8 +11,18 @@
             "id": "24b5e6ddd653c397",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "empty",
               "state": {}
+=======
+              "type": "markdown",
+              "state": {
+                "file": "000010 Online Service/000001 Закладки на сайты.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+>>>>>>> refs/remotes/origin/main
             }
           }
         ]
@@ -81,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000003 Developers/300007 Git/Git CheatSheet.md",
+                "file": "000010 Online Service/000001 Закладки на сайты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000003 Developers/300007 Git/Git CheatSheet.md",
+                "file": "000010 Online Service/000001 Закладки на сайты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000003 Developers/300007 Git/Git CheatSheet.md"
+                "file": "000010 Online Service/000001 Закладки на сайты.md"
               }
             }
           },
@@ -144,20 +154,27 @@
             }
           },
           {
-            "id": "f97f91cec49eda1e",
+            "id": "bb4fff7882d01dc9",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "4f92c63ec104e353",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +194,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
+<<<<<<< HEAD
   "active": "1d72674f24e68c5d",
+=======
+  "active": "4f92c63ec104e353",
+>>>>>>> refs/remotes/origin/main
   "lastOpenFiles": [
-    "000003 Developers/300007 Git/Git шпаргалка на русском.md",
+    "000010 Online Service/000001 Закладки на сайты.md",
+    "000010 Online Service",
+    "000002 Education/200001 Арнион/000000 Содержание.md",
     "HomePage.md",
+    "000003 Developers/300007 Git/Git шпаргалка на русском.md",
     "000008 Soft/888888 Portable/portable.md",
     "000008 Soft/888888 Portable/EzSort.md",
     "000001 Ideas/Плагин для Obsidian.md",
@@ -203,7 +227,6 @@
     "Files/Images/fb3d11b510b7c3b442c58c022f6499e9_MD5.png",
     "Files/Images",
     "Files/Photos",
-    "Files/Video/hover_effect_buttons.mp4",
     "000001 Ideas/100000 Идеи.md",
     "000001 Ideas/Создать свой генератор сниппетов для VS Code.md",
     "000003 Developers/300008 GitHub/Начало работы с документацией GitHub.md",
@@ -215,7 +238,6 @@
     "000008 Soft/800003 Visual Studio Code/Plugins/Color Highlight.md",
     "000008 Soft/800003 Visual Studio Code/Themes/Andromed.md",
     "000008 Soft/800003 Visual Studio Code/Themes/Bluloco Dark Theme.md",
-    "000002 Education/200001 Арнион/000000 Содержание.md",
     "000002 Education/200001 Арнион/1.1. О языке Python. Установка среды.md",
     "000002 Education/200001 Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды.md",
     "000001 Ideas/Телеграм бот.md",
@@ -224,7 +246,6 @@
     "000008 Soft/4K Downloader.md",
     "000008 Soft/800003 Visual Studio Code/Settings.md",
     "000001 Ideas/Парсер сайта Anixart.md",
-    "000004 Books/Полководец.md",
     "Без названия.canvas"
   ]
 }
