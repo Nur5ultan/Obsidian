@@ -1,28 +1,23 @@
 {
   "main": {
-    "id": "4e9d8fde4553521b",
+    "id": "c6a71b4d1b827e03",
     "type": "split",
     "children": [
       {
-        "id": "323f0de0e6ff8d79",
+        "id": "3b8a1259d6cddcb3",
         "type": "tabs",
         "children": [
           {
-            "id": "24b5e6ddd653c397",
+            "id": "ca98d66c98dff324",
             "type": "leaf",
             "state": {
-<<<<<<< HEAD
-              "type": "empty",
-              "state": {}
-=======
               "type": "markdown",
               "state": {
-                "file": "000010 Online Service/000001 Закладки на сайты.md",
+                "file": "Templates/tmp_everyday_notes.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
->>>>>>> refs/remotes/origin/main
             }
           }
         ]
@@ -31,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "68d01ce85f962297",
+    "id": "c6d1c03a2fe106aa",
     "type": "split",
     "children": [
       {
-        "id": "3966c16c93b5fd8c",
+        "id": "279fd3930bcb87dd",
         "type": "tabs",
         "children": [
           {
-            "id": "1d72674f24e68c5d",
+            "id": "7627533cf4c9ccb4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +44,7 @@
             }
           },
           {
-            "id": "b92849b0d8e89dd3",
+            "id": "8ddea538100c5404",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,36 +57,28 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "18b1f28d9e7b9c41",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 300
   },
   "right": {
-    "id": "9d54381771725cea",
+    "id": "79ebd2f96bffe70a",
     "type": "split",
     "children": [
       {
-        "id": "e73b9e6abc16b54d",
+        "id": "686d2c2ed2e22466",
         "type": "tabs",
         "children": [
           {
-            "id": "3699fac9ce1d6f7b",
+            "id": "e2951ce415c40568",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000010 Online Service/000001 Закладки на сайты.md",
+                "file": "Templates/tmp_everyday_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,19 +90,19 @@
             }
           },
           {
-            "id": "7ac52a4dc9df6163",
+            "id": "75c1e9f3a6dd23a0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000010 Online Service/000001 Закладки на сайты.md",
+                "file": "Templates/tmp_everyday_notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f123890b5cf9ba80",
+            "id": "df17c27642b19b3c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -126,17 +113,7 @@
             }
           },
           {
-            "id": "bb27bd8f8a1cd961",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "000010 Online Service/000001 Закладки на сайты.md"
-              }
-            }
-          },
-          {
-            "id": "61be70eca502be1e",
+            "id": "bd81aed8dc9230ac",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -146,7 +123,17 @@
             }
           },
           {
-            "id": "2face7b96ee97f98",
+            "id": "7755bb648a6dc549",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/tmp_everyday_notes.md"
+              }
+            }
+          },
+          {
+            "id": "9a3f0b8cc3ca4a2b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -154,98 +141,45 @@
             }
           },
           {
-            "id": "bb4fff7882d01dc9",
+            "id": "3adf6c60c845cbc2",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
               "state": {}
             }
-          },
-          {
-            "id": "4f92c63ec104e353",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Повторить карточки": false,
+      "obsidian-youglish-plugin:Youglish Plugin": false,
       "homepage:Open homepage": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "markdown-importer:Импорт Markdown-файлов": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Повторить карточки": false,
-      "obsidian-youglish-plugin:Youglish Plugin": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
+      "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-<<<<<<< HEAD
-  "active": "1d72674f24e68c5d",
-=======
-  "active": "4f92c63ec104e353",
->>>>>>> refs/remotes/origin/main
+  "active": "ca98d66c98dff324",
   "lastOpenFiles": [
-    "000010 Online Service/000001 Закладки на сайты.md",
-    "000010 Online Service",
-    "000002 Education/200001 Арнион/000000 Содержание.md",
+    "www.practicum.yandex.ru.md",
+    "Templates/tmp_everyday_notes.md",
+    "www.stepik.org.md",
+    "Templates/Без названия.md",
     "HomePage.md",
-    "000003 Developers/300007 Git/Git шпаргалка на русском.md",
-    "000008 Soft/888888 Portable/portable.md",
-    "000008 Soft/888888 Portable/EzSort.md",
-    "000001 Ideas/Плагин для Obsidian.md",
-    "Files/Images/1475120bd988e19e231ddd680883dc17_MD5.svg",
-    "Files/Images/fd37de5752dced324edec5af8073259f_MD5.webp",
-    "Files/Images/de15f6532e38dacf175e4af953b0b154_MD5.webp",
-    "Files/Images/b37d56804576ebbf6f07d8211323fd1d_MD5.webp",
-    "Files/Images/33a172cff778260972263889b1d87cd8_MD5.webp",
-    "Files/Images/0f74f3855efd7140383a1395e1f3236a_MD5.webp",
-    "Files/Apps/EzSort.bat",
-    "Files/Apps",
-    "Files/Docs/Шпаргалка_по _Python.pdf",
-    "Files/Docs/Модуль_os_в_Python.pdf",
-    "Files/Docs/sql_cheatsheet.pdf",
-    "Files/Docs/git_шпаргалка_на_русском.pdf",
-    "Files/Docs",
-    "Files/Images/Pasted image 20231024002913.png",
-    "Files/Images/Pasted image 20231024002902.png",
-    "Files/Images/Pasted image 20230924213052.png",
-    "Files/Images/fb3d11b510b7c3b442c58c022f6499e9_MD5.png",
-    "Files/Images",
-    "Files/Photos",
-    "000001 Ideas/100000 Идеи.md",
-    "000001 Ideas/Создать свой генератор сниппетов для VS Code.md",
-    "000003 Developers/300008 GitHub/Начало работы с документацией GitHub.md",
-    "000003 Developers/300001 Markdown/000001 Базовый синтаксис форматирования.md",
-    "000008 Soft/800003 Visual Studio Code/Plugins.md",
-    "000008 Soft/800003 Visual Studio Code/Plugins/Git Cheatsheet.md",
-    "000008 Soft/800003 Visual Studio Code/Plugins/CSS Peek.md",
-    "000008 Soft/800003 Visual Studio Code/Plugins/CSS Flexbox Cheatsheet.md",
-    "000008 Soft/800003 Visual Studio Code/Plugins/Color Highlight.md",
-    "000008 Soft/800003 Visual Studio Code/Themes/Andromed.md",
-    "000008 Soft/800003 Visual Studio Code/Themes/Bluloco Dark Theme.md",
-    "000002 Education/200001 Арнион/1.1. О языке Python. Установка среды.md",
-    "000002 Education/200001 Арнион/Модуль 1. Быстрый старт в Python/1.1. О языке Python. Установка среды.md",
-    "000001 Ideas/Телеграм бот.md",
-    "000001 Ideas/Тема для Obsidian.md",
-    "000008 Soft/Bandicam.md",
-    "000008 Soft/4K Downloader.md",
-    "000008 Soft/800003 Visual Studio Code/Settings.md",
-    "000001 Ideas/Парсер сайта Anixart.md",
-    "Без названия.canvas"
+    "Everyday notes"
   ]
 }
