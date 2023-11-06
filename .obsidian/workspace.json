@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3b8a1259d6cddcb3",
+        "id": "98909d068ec7c9e9",
         "type": "tabs",
         "children": [
           {
-            "id": "ca98d66c98dff324",
+            "id": "41d860e2cbea724b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000003 Developers/300003 HTML/Без названия.md",
-                "mode": "source",
+                "file": "HomePage.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000003 Developers/300003 HTML/Без названия.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000003 Developers/300003 HTML/Без названия.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000003 Developers/300003 HTML/Без названия.md"
+                "file": "HomePage.md"
               }
             }
           },
@@ -173,10 +173,36 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "ca98d66c98dff324",
+  "active": "41d860e2cbea724b",
   "lastOpenFiles": [
+    "Files/6f1ac6256302dbf91d3793ad8cc98639_MD5.gif",
+    "000003 Developers/300003 HTML/Формы/Типы полей форм.md",
+    "000003 Developers/300003 HTML/Формы/Новые типы полей.md",
+    "Files/8a16e970bde8885c5b28583732de40e4_MD5.png",
+    "Files/a9ba2115c77453833c5cee766b129c27_MD5.png",
+    "Files/068a633b11de9d37531a0b188cc236e4_MD5.png",
+    "Files/34dfcd5269d7787d6baabdd4b9bfca8c_MD5.png",
+    "Files/22d6cf951df3ebd296861fa719292d37_MD5.png",
+    "Files/cdc12e5c3b813a4ebe0b1b4605bdfb2b_MD5.png",
+    "Files/c3c3e5675405cc4fc4fcf88556a59ec9_MD5.png",
+    "Files/4c6a6be6168c2dee8e3d7819b4a6b7b4_MD5.png",
+    "Files/cb8f202aec44c457456ccbb4a34213b2_MD5.png",
+    "000003 Developers/300003 HTML/Формы/Создание формы.md",
+    "000003 Developers/300003 HTML/Формы/Формы.md",
+    "Files/366c0fe2aee0410661a8636c494026d8_MD5.gif",
+    "000003 Developers/300003 HTML/Таблицы/Объединение строк.md",
+    "000003 Developers/300003 HTML/Формы",
+    "000003 Developers/300003 HTML/Таблицы/Объединение столбцов.md",
+    "000003 Developers/300003 HTML/Таблицы/thead, tbody, tfoot, caption.md",
+    "000003 Developers/300003 HTML/Таблицы",
+    "000003 Developers/300003 HTML/Таблицы/Таблицы.md",
+    "000003 Developers/300003 HTML/Ссылки и адреса.md",
+    "000003 Developers/300003 HTML/Якоря.md",
+    "000003 Developers/300003 HTML/Изображения.md",
+    "000003 Developers/300003 HTML/Списки.md",
+    "000003 Developers/300003 HTML/Вложенные списки.md",
+    "000003 Developers/300003 HTML/Элементы и их виды.md",
     "000002 Education/200001 English/FlashCards/Developers.md",
-    "000003 Developers/300003 HTML/Без названия.md",
     "www.practicum.yandex.ru.md",
     "Templates/tmp_everyday_notes.md",
     "www.stepik.org.md",
