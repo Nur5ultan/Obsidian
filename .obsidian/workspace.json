@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HomePage.md",
+                "file": "000003 Developers/300007 Git/Git CheatSheet.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "79ebd2f96bffe70a",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomePage.md",
+                "file": "000003 Developers/300007 Git/Git CheatSheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomePage.md",
+                "file": "000003 Developers/300007 Git/Git CheatSheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomePage.md"
+                "file": "000003 Developers/300007 Git/Git CheatSheet.md"
               }
             }
           },
@@ -176,6 +177,10 @@
   },
   "active": "b009ce39c663edd8",
   "lastOpenFiles": [
+    "000003 Developers/300007 Git/Git шпаргалка на русском.md",
+    "000003 Developers/300007 Git/Оформление коммитов.md",
+    "Files/git_шпаргалка_на_русском.pdf.md",
+    "HomePage.md",
     "Files/324c84da055cdca4c15af53fa5370762_MD5.jpg",
     "Files/faff8eb861cf617d9ea895ce19a74480_MD5.jpg",
     "Files/5bf28e889521f64fe7c3b853aa744631_MD5.jpg",
@@ -184,7 +189,6 @@
     "Files/f04f3be18d8e340c14ccad019e12f677_MD5.jpg",
     "000003 Developers/Google Colab/Google colab установить библиотеку – Fan Wiki.md",
     "000003 Developers/Google Colab",
-    "HomePage.md",
     "000003 Developers/300006 SQL/Команды SQL.md",
     "000003 Developers/300002 Python/Парсинг сайтов/Правила парсинга сайтов.md",
     "000003 Developers/300002 Python/Парсинг сайтов",
@@ -198,7 +202,6 @@
     "Files/8a16e970bde8885c5b28583732de40e4_MD5.png",
     "Files/a9ba2115c77453833c5cee766b129c27_MD5.png",
     "Files/068a633b11de9d37531a0b188cc236e4_MD5.png",
-    "Files/34dfcd5269d7787d6baabdd4b9bfca8c_MD5.png",
     "000003 Developers/300003 HTML/Формы/Создание формы.md",
     "000003 Developers/300003 HTML/Формы/Формы.md",
     "000003 Developers/300003 HTML/Таблицы/Объединение строк.md",
