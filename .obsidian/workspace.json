@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3baf43c4c9e08583",
+        "id": "ca13ccacccf111a8",
         "type": "tabs",
         "children": [
           {
-            "id": "0bcfc5ccd3371f75",
+            "id": "421d3b4a78bf8f8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
+                "file": "Soft/800003 Visual Studio Code/Plugins/Todo Tree.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3ff6f1ea828a282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HomePage.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "79ebd2f96bffe70a",
@@ -79,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000002 Education/200001 Арнион/000000 Содержание.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000002 Education/200001 Арнион/000000 Содержание.md"
+                "file": "HomePage.md"
               }
             }
           },
@@ -175,11 +188,28 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "0bcfc5ccd3371f75",
+  "active": "b3ff6f1ea828a282",
   "lastOpenFiles": [
+    "Soft/800003 Visual Studio Code/Plugins/Todo Tree.md",
+    "Game/counter-strike source/создание хорошего конфига и бинды.md",
+    "Templates/tmp_anime.md",
+    "AI/Каталог искусственных интеллектов.md",
     "HomePage.md",
-    "000003 Developers/300007 Git/Git шпаргалка на русском.md",
-    "000003 Developers/300007 Git/Оформление коммитов.md",
+    "AI",
+    "Inbox/Как_составить_качественное_резюме_для_поиска_работы_в_«первом_мире».pdf",
+    "Developers/300006 SQL/MySQL/Выгружаем столбцы в отдельный файл.md",
+    "Developers/300006 SQL/MySQL/Выгружаем из БД название таблицы в отдельный файл.md",
+    "Developers/300006 SQL/Команды SQL.md",
+    "Inbox/Правила ведения заметок в SB.md",
+    "Developers/300002 Python/customtkinter/Прокручиваемые кадры.md",
+    "Developers/300002 Python/customtkinter/виджеты CTk.md",
+    "Developers/300002 Python/customtkinter/CTkComboBox.md",
+    "Developers/300002 Python/Парсинг сайтов/Правила парсинга сайтов.md",
+    "Developers/300002 Python/Модуль OS/Модуль Os.md",
+    "Developers/300006 SQL/SQL Servers.md",
+    "Developers/300006 SQL/MySQL",
+    "Developers/300007 Git/Git шпаргалка на русском.md",
+    "Developers/300007 Git/Оформление коммитов.md",
     "Files/git_шпаргалка_на_русском.pdf.md",
     "Files/324c84da055cdca4c15af53fa5370762_MD5.jpg",
     "Files/faff8eb861cf617d9ea895ce19a74480_MD5.jpg",
@@ -187,40 +217,24 @@
     "Files/ddba27584da5a22ef5ecdcb1090d0820_MD5.jpg",
     "Files/62d3aca8a7e85c62348f6c82beb4223d_MD5.jpg",
     "Files/f04f3be18d8e340c14ccad019e12f677_MD5.jpg",
-    "000003 Developers/Google Colab/Google colab установить библиотеку – Fan Wiki.md",
-    "000003 Developers/Google Colab",
-    "000003 Developers/300006 SQL/Команды SQL.md",
-    "000003 Developers/300002 Python/Парсинг сайтов/Правила парсинга сайтов.md",
-    "000003 Developers/300002 Python/Парсинг сайтов",
-    "000003 Developers/300008 GitHub/GitHub Pages",
-    "000003 Developers/300008 GitHub/GitHub Gist",
-    "000003 Developers/300008 GitHub/GitHub",
+    "Developers/Google Colab/Google colab установить библиотеку – Fan Wiki.md",
+    "Developers/Google Colab",
+    "Developers/300002 Python/Парсинг сайтов",
+    "Developers/300008 GitHub/GitHub Pages",
+    "Developers/300008 GitHub/GitHub Gist",
+    "Developers/300008 GitHub/GitHub",
     "000003 Developers/300007 Git/Без названия",
     "Files/6f1ac6256302dbf91d3793ad8cc98639_MD5.gif",
-    "000003 Developers/300003 HTML/Формы/Типы полей форм.md",
-    "000003 Developers/300003 HTML/Формы/Новые типы полей.md",
+    "Developers/300003 HTML/Формы/Типы полей форм.md",
+    "Developers/300003 HTML/Формы/Новые типы полей.md",
     "Files/8a16e970bde8885c5b28583732de40e4_MD5.png",
     "Files/a9ba2115c77453833c5cee766b129c27_MD5.png",
     "Files/068a633b11de9d37531a0b188cc236e4_MD5.png",
-    "000003 Developers/300003 HTML/Формы/Создание формы.md",
-    "000003 Developers/300003 HTML/Формы/Формы.md",
-    "000003 Developers/300003 HTML/Таблицы/Объединение строк.md",
-    "000003 Developers/300003 HTML/Формы",
-    "000003 Developers/300003 HTML/Таблицы/Объединение столбцов.md",
-    "000003 Developers/300003 HTML/Таблицы/thead, tbody, tfoot, caption.md",
-    "000003 Developers/300003 HTML/Таблицы",
-    "000003 Developers/300003 HTML/Таблицы/Таблицы.md",
-    "000003 Developers/300003 HTML/Ссылки и адреса.md",
-    "000003 Developers/300003 HTML/Якоря.md",
-    "000003 Developers/300003 HTML/Изображения.md",
-    "000003 Developers/300003 HTML/Списки.md",
-    "000003 Developers/300003 HTML/Вложенные списки.md",
-    "000003 Developers/300003 HTML/Элементы и их виды.md",
-    "000002 Education/200001 English/FlashCards/Developers.md",
-    "www.practicum.yandex.ru.md",
-    "Templates/tmp_everyday_notes.md",
-    "www.stepik.org.md",
-    "Templates/Без названия.md",
-    "Everyday notes"
+    "Developers/300003 HTML/Формы/Создание формы.md",
+    "Developers/300003 HTML/Формы/Формы.md",
+    "Developers/300003 HTML/Таблицы/Объединение строк.md",
+    "Developers/300003 HTML/Формы",
+    "Developers/300003 HTML/Таблицы/Объединение столбцов.md",
+    "Developers/300003 HTML/Таблицы/thead, tbody, tfoot, caption.md"
   ]
 }
